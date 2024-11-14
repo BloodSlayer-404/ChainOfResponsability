@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"org.example","l":"FirePokemon"},{"p":"org.example","l":"GrassPokemon"},{"p":"org.example","l":"PokemonHandler"},{"p":"org.example","l":"WaterPokemon"}];updateSearchResults();
